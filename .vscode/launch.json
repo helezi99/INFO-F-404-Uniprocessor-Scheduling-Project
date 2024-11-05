@@ -1,0 +1,43 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug EDF Algorithm",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/main.py",
+            "args": [
+                "edf",
+                /*"${workspaceFolder}/tasksets/80-percent/4-tasks/taskset-0",*/
+                "${workspaceFolder}/taskset-edftest", 
+                "-v"
+            ],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Debug DM Algorithm",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/main.py",
+            "args": [
+                "dm",
+                /*"${workspaceFolder}/tasksets/80-percent/4-tasks/taskset-0",*/
+                "${workspaceFolder}/taskset-dmtest", 
+                "-v"
+            ],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Debug RR Algorithm",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/main.py",
+            "args": [
+                "rr",
+                "${workspaceFolder}/tasksets/80-percent/4-tasks/taskset-0",
+                "-v"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}
