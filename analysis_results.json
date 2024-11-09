@@ -1,0 +1,166 @@
+{
+  "task_number_data": {
+    "task_counts": [
+      4,
+      6,
+      8,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20
+    ],
+    "results": {
+      "10": {
+        "total": 500,
+        "feasible": 264,
+        "dm_schedulable": 150,
+        "edf_schedulable": 264,
+        "rr_schedulable": 0
+      },
+      "12": {
+        "total": 500,
+        "feasible": 182,
+        "dm_schedulable": 20,
+        "edf_schedulable": 182,
+        "rr_schedulable": 0
+      },
+      "14": {
+        "total": 500,
+        "feasible": 53,
+        "dm_schedulable": 1,
+        "edf_schedulable": 53,
+        "rr_schedulable": 0
+      },
+      "16": {
+        "total": 500,
+        "feasible": 1,
+        "dm_schedulable": 0,
+        "edf_schedulable": 1,
+        "rr_schedulable": 0
+      },
+      "18": {
+        "total": 500,
+        "feasible": 0,
+        "dm_schedulable": 0,
+        "edf_schedulable": 0,
+        "rr_schedulable": 0
+      },
+      "20": {
+        "total": 500,
+        "feasible": 0,
+        "dm_schedulable": 0,
+        "edf_schedulable": 0,
+        "rr_schedulable": 0
+      },
+      "4": {
+        "total": 500,
+        "feasible": 296,
+        "dm_schedulable": 267,
+        "edf_schedulable": 296,
+        "rr_schedulable": 61
+      },
+      "6": {
+        "total": 500,
+        "feasible": 260,
+        "dm_schedulable": 226,
+        "edf_schedulable": 260,
+        "rr_schedulable": 6
+      },
+      "8": {
+        "total": 500,
+        "feasible": 277,
+        "dm_schedulable": 201,
+        "edf_schedulable": 277,
+        "rr_schedulable": 3
+      }
+    }
+  },
+  "utilization_data": {
+    "utilizations": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90,
+      100
+    ],
+    "results": {
+      "10": {
+        "total": 500,
+        "feasible": 350,
+        "dm_schedulable": 350,
+        "edf_schedulable": 350,
+        "rr_schedulable": 0
+      },
+      "100": {
+        "total": 500,
+        "feasible": 49,
+        "dm_schedulable": 0,
+        "edf_schedulable": 49,
+        "rr_schedulable": 0
+      },
+      "20": {
+        "total": 500,
+        "feasible": 334,
+        "dm_schedulable": 334,
+        "edf_schedulable": 334,
+        "rr_schedulable": 1
+      },
+      "30": {
+        "total": 500,
+        "feasible": 350,
+        "dm_schedulable": 350,
+        "edf_schedulable": 350,
+        "rr_schedulable": 1
+      },
+      "40": {
+        "total": 500,
+        "feasible": 346,
+        "dm_schedulable": 344,
+        "edf_schedulable": 346,
+        "rr_schedulable": 0
+      },
+      "50": {
+        "total": 500,
+        "feasible": 330,
+        "dm_schedulable": 328,
+        "edf_schedulable": 330,
+        "rr_schedulable": 0
+      },
+      "60": {
+        "total": 500,
+        "feasible": 334,
+        "dm_schedulable": 315,
+        "edf_schedulable": 334,
+        "rr_schedulable": 0
+      },
+      "70": {
+        "total": 500,
+        "feasible": 317,
+        "dm_schedulable": 276,
+        "edf_schedulable": 317,
+        "rr_schedulable": 0
+      },
+      "80": {
+        "total": 500,
+        "feasible": 266,
+        "dm_schedulable": 146,
+        "edf_schedulable": 266,
+        "rr_schedulable": 0
+      },
+      "90": {
+        "total": 500,
+        "feasible": 163,
+        "dm_schedulable": 10,
+        "edf_schedulable": 163,
+        "rr_schedulable": 0
+      }
+    }
+  }
+}
