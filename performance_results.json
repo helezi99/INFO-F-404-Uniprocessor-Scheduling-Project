@@ -1,0 +1,130 @@
+[
+    {
+        "worker_count": 1,
+        "total_processing_time": 0.5797529220581055
+    },
+    {
+        "worker_count": 2,
+        "total_processing_time": 0.34448957443237305
+    },
+    {
+        "worker_count": 3,
+        "total_processing_time": 0.3466823101043701
+    },
+    {
+        "worker_count": 4,
+        "total_processing_time": 0.30480241775512695
+    },
+    {
+        "worker_count": 5,
+        "total_processing_time": 0.26407957077026367
+    },
+    {
+        "worker_count": 6,
+        "total_processing_time": 0.29047083854675293
+    },
+    {
+        "worker_count": 7,
+        "total_processing_time": 0.3038361072540283
+    },
+    {
+        "worker_count": 8,
+        "total_processing_time": 0.30609560012817383
+    },
+    {
+        "worker_count": 9,
+        "total_processing_time": 0.2991361618041992
+    },
+    {
+        "worker_count": 10,
+        "total_processing_time": 0.31905055046081543
+    },
+    {
+        "worker_count": 11,
+        "total_processing_time": 0.3345637321472168
+    },
+    {
+        "worker_count": 12,
+        "total_processing_time": 0.3355555534362793
+    },
+    {
+        "worker_count": 13,
+        "total_processing_time": 0.3388204574584961
+    },
+    {
+        "worker_count": 14,
+        "total_processing_time": 0.3412144184112549
+    },
+    {
+        "worker_count": 15,
+        "total_processing_time": 0.3659515380859375
+    },
+    {
+        "worker_count": 16,
+        "total_processing_time": 0.3683173656463623
+    },
+    {
+        "worker_count": 17,
+        "total_processing_time": 0.389401912689209
+    },
+    {
+        "worker_count": 18,
+        "total_processing_time": 0.39032936096191406
+    },
+    {
+        "worker_count": 19,
+        "total_processing_time": 0.4571545124053955
+    },
+    {
+        "worker_count": 20,
+        "total_processing_time": 0.47935914993286133
+    },
+    {
+        "worker_count": 21,
+        "total_processing_time": 0.42215585708618164
+    },
+    {
+        "worker_count": 22,
+        "total_processing_time": 0.4883003234863281
+    },
+    {
+        "worker_count": 23,
+        "total_processing_time": 0.4866938591003418
+    },
+    {
+        "worker_count": 24,
+        "total_processing_time": 0.5065536499023438
+    },
+    {
+        "worker_count": 25,
+        "total_processing_time": 0.5115675926208496
+    },
+    {
+        "worker_count": 26,
+        "total_processing_time": 0.47188520431518555
+    },
+    {
+        "worker_count": 27,
+        "total_processing_time": 0.5146183967590332
+    },
+    {
+        "worker_count": 28,
+        "total_processing_time": 0.5253598690032959
+    },
+    {
+        "worker_count": 29,
+        "total_processing_time": 0.4965395927429199
+    },
+    {
+        "worker_count": 30,
+        "total_processing_time": 0.5211961269378662
+    },
+    {
+        "worker_count": 31,
+        "total_processing_time": 0.5273489952087402
+    },
+    {
+        "worker_count": 32,
+        "total_processing_time": 0.49297237396240234
+    }
+]
