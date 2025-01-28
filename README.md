@@ -1,7 +1,7 @@
 # Uniprocessor Scheduling Project
 
 **INFO-F-404: Real-Time Operating Systems (2024/25) - ULB**  
-Work: Herma Elezi , Zexin Zhang
+Work: Herma ELEWI , Zexin ZHANG
 
 <div align="center">
     <img src="https://actus.ulb.be/medias/photo/logo-universite-libre-bruxelles_1661952138925-png?ID_FICHE=19524" alt="ULB Logo" width="300"/>
